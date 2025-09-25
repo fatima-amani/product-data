@@ -1,0 +1,1593 @@
+product_id,concern
+5,Dryness
+6,Under Eye Concerns
+7,Oil Control
+7,Sun Damage
+10,Blemishes
+18,Dullness
+22,Pores
+22,Oil Control
+24,Colour Protection
+24,Damaged Hair
+24,Frizziness
+28,Blemishes
+28,Pigmentation
+28,Dark Spots
+28,Dark Circles
+28,Dullness
+28,Fine Lines & Wrinkles
+28,Under Eye Concerns
+28,Acne
+29,Acne
+30,Dryness
+30,Dullness
+31,Chapped Lips
+35,Dullness
+35,Anti-Pollution
+35,Anti-Ageing
+41,Blackheads
+41,Whiteheads
+46,Blemishes
+47,Acne
+47,Dullness
+47,Dryness
+57,Blemishes
+61,Uneven Skin Tone
+61,Pores
+61,Dullness
+62,Dullness
+67,Sun Damage
+74,Frizziness
+75,Damaged Hair
+75,Dryness
+75,Frizziness
+77,Dryness
+80,Dullness
+86,Dryness
+86,Frizziness
+91,Blemishes
+91,Pigmentation
+91,Dark Spots
+91,Dark Circles
+91,Dullness
+91,Fine Lines & Wrinkles
+91,Under Eye Concerns
+91,Acne
+94,Hair Loss
+94,Hair Fall
+94,Product Build-Up
+98,Blemishes
+98,Pigmentation
+98,Dark Spots
+98,Dark Circles
+98,Dullness
+98,Fine Lines & Wrinkles
+98,Under Eye Concerns
+98,Acne
+106,Blemishes
+112,Uneven Skin Tone
+113,Dryness
+113,Dullness
+113,Anti-Pollution
+113,Redness
+115,Blemishes
+115,Fine Lines & Wrinkles
+115,Dullness
+115,Under Eye Concerns
+125,Pores
+125,Dullness
+125,Acne
+125,Oil Control
+132,Dullness
+132,Dryness
+132,Anti-Ageing
+137,Dullness
+144,Oil Control
+148,Fine Lines & Wrinkles
+149,Dryness
+151,Anti-Ageing
+153,Dryness
+157,Acne
+157,Dullness
+159,Oil Control
+162,Roughness
+165,Sun Damage
+165,Anti-Ageing
+166,Pores
+176,Blemishes
+180,Chapped Lips
+180,Dryness
+182,Anti-Ageing
+193,Dullness
+193,Tan Removal
+193,Uneven Skin Tone
+198,Under Eye Concerns
+198,Anti-Pollution
+198,Anti-Ageing
+201,Chapped Lips
+207,Blemishes
+207,Pigmentation
+207,Pores
+207,Dark Spots
+207,Dark Circles
+207,Dullness
+207,Dryness
+207,Fine Lines & Wrinkles
+207,Under Eye Concerns
+207,Acne
+210,Chapped Lips
+211,Frizziness
+218,Dryness
+220,Acne
+223,Split Ends
+223,Dryness
+223,Frizziness
+225,Acne
+225,Pores
+225,Dullness
+229,Dullness
+229,Hair Fall
+230,Oil Control
+232,Blackheads
+232,Whiteheads
+239,Dullness
+239,Dryness
+239,Uneven Skin Tone
+239,Roughness
+245,Dullness
+245,Product Build-Up
+251,Dryness
+251,Roughness
+253,Dryness
+256,Blemishes
+263,Dark Spots
+264,Dark Spots
+265,Dryness
+267,Uneven Skin Tone
+268,Anti-Ageing
+269,Dullness
+269,Dryness
+270,Acne
+270,Oil Control
+270,Dryness
+272,Dryness
+274,Pores
+275,Blemishes
+276,Acne
+279,Chapped Lips
+282,Pores
+282,Uneven Skin Tone
+282,Dark Spots
+282,Blemishes
+283,Chapped Lips
+285,Product Build Up
+286,Tan Removal
+287,Uneven Skin Tone
+288,Sun Damage
+293,Chapped Lips
+293,Dryness
+299,Dryness
+305,Blemishes
+305,Acne
+305,Dark Spots
+305,Dryness
+305,Pigmentation
+305,Dullness
+305,Fine Lines & Wrinkles
+305,Dark Circles
+310,Dark Spots
+321,Dryness
+331,Cuticle Care
+331,Dryness
+331,Roughness
+333,Chapped Lips
+337,Anti-Ageing
+341,Dullness
+341,Dryness
+341,Anti-Ageing
+344,Dryness
+344,Stretch Marks
+351,Dullness
+351,Sun Damage
+351,Anti-Ageing
+355,Dryness
+361,Hair Fall
+368,Hair Fall
+368,Dryness
+368,Frizziness
+368,Damaged Hair
+368,Hair Loss
+369,Blemishes
+369,Dryness
+369,Acne
+370,Tan Removal
+380,Dullness
+380,Tangled Hair
+383,Acne
+390,Dryness
+392,Hair Loss
+392,Hair Fall
+392,Thinning
+394,Frizziness
+395,Redness
+405,Dark Spots
+405,Anti-Pollution
+405,Acne
+405,Fine Lines & Wrinkles
+405,Uneven Skin Tone
+409,Chapped Lips
+409,Dryness
+413,Dryness
+413,Oil Control
+413,Tangled Hair
+414,Thinning
+414,Hair Fall
+415,Acne
+418,Chapped Lips
+420,Chapped Lips
+420,Dryness
+437,Redness
+437,Dark Circles
+437,Blemishes
+447,Oil Control
+447,Sun Damage
+448,Thinning
+448,Hair Fall
+448,Hair Loss
+458,Chapped Lips
+462,Chapped Lips
+462,Dryness
+475,Dryness
+475,Roughness
+475,Anti-Ageing
+479,Split Ends
+479,Dryness
+479,Frizziness
+482,Uneven Skin Tone
+482,Pores
+485,Dandruff
+486,Oil Control
+489,Chapped Lips
+489,Dryness
+490,Pigmentation
+491,Dryness
+495,Damaged Hair
+497,Dandruff
+498,Dryness
+500,Dryness
+507,Fine Lines & Wrinkles
+507,Anti-Ageing
+512,Blemishes
+516,Acne
+519,Dryness
+519,Dullness
+519,Sun Damage
+521,Colour Protection
+521,Damaged Hair
+521,Frizziness
+523,Redness
+523,Dryness
+523,Dullness
+523,Roughness
+524,Dullness
+532,Dryness
+533,Pores
+537,Dryness
+537,Dark Spots
+537,Roughness
+538,Split Ends
+538,Frizziness
+539,Oil Control
+539,Acne
+539,Pores
+540,Dryness
+540,Anti-Pollution
+540,Tangled Hair
+546,Dryness
+557,Acne
+557,Blemishes
+557,Oil Control
+566,Acne
+570,Dryness
+570,Dullness
+570,Uneven Skin Tone
+572,Dryness
+574,Blemishes
+574,Fine Lines & Wrinkles
+574,Dullness
+574,Under Eye Concerns
+577,Chapped Lips
+577,Dryness
+579,Acne
+579,Blemishes
+585,Blemishes
+585,Dark Circles
+585,Uneven Skin Tone
+585,Fine Lines & Wrinkles
+585,Redness
+590,Acne
+590,Pores
+590,Blackheads
+599,Damaged Hair
+599,Frizziness
+605,Dryness
+605,Damaged Hair
+614,Dullness
+614,Uneven Skin Tone
+617,Pores
+617,Fine Lines & Wrinkles
+617,Redness
+633,Anti-Ageing
+633,Tan Removal
+633,Pores
+641,Anti-Pollution
+641,Blemishes
+641,Pores
+643,Anti-Pollution
+643,Pores
+646,Dullness
+646,Uneven Skin Tone
+647,Pigmentation
+647,Dullness
+647,Sun Damage
+648,Dryness
+651,Roughness
+654,Uneven Skin Tone
+657,Dryness
+661,Dullness
+664,Fine Lines & Wrinkles
+664,Sun Damage
+666,Split Ends
+666,Dryness
+666,Dullness
+667,Dark Spots
+667,Dullness
+673,Damaged Hair
+675,Dullness
+677,Redness
+693,Pigmentation
+693,Sun Damage
+696,Dryness
+704,Oil Control
+704,Blemishes
+704,Dryness
+714,Damaged Hair
+716,Pores
+716,Dark Spots
+729,Pores
+729,Blemishes
+729,Redness
+729,Uneven Skin Tone
+730,Dryness
+730,Pores
+730,Product Build Up
+732,Roughness
+737,Split Ends
+737,Dandruff
+737,Dryness
+739,Thinning
+743,Dryness
+744,Chapped Lips
+746,Dryness
+746,Stretch Marks
+753,Dryness
+764,Acne
+768,Blemishes
+769,Dryness
+769,Dullness
+772,Hair Loss
+780,Pores
+786,Frizziness
+787,Dullness
+787,Anti-Pollution
+787,Anti-Ageing
+792,Dryness
+795,Uneven Skin Tone
+798,Blemishes
+799,Dark Spots
+799,Under Eye Concerns
+799,Blemishes
+799,Uneven Skin Tone
+799,Fine Lines & Wrinkles
+799,Pigmentation
+799,Acne
+799,Dullness
+799,Dark Circles
+800,Tan Removal
+800,Uneven Skin Tone
+802,Cuticle Care
+803,Blemishes
+804,Blemishes
+813,Dryness
+814,Acne
+816,Split Ends
+821,Dryness
+822,Anti-Pollution
+822,Dullness
+822,Dryness
+824,Dryness
+825,Fine Lines & Wrinkles
+825,Anti-Ageing
+828,Uneven Skin Tone
+830,Uneven Skin Tone
+834,Uneven Skin Tone
+838,Dryness
+838,Cleansing
+838,Oil Control
+843,Dryness
+843,Uneven Skin Tone
+843,Anti-Ageing
+846,Oil Control
+846,Sun Damage
+851,Dryness
+854,Dullness
+855,Dryness
+855,Hair Fall
+855,Damaged Hair
+856,Sun Damage
+858,Blemishes
+858,Pigmentation
+858,Dark Spots
+858,Dark Circles
+858,Dullness
+858,Dryness
+858,Fine Lines & Wrinkles
+858,Under Eye Concerns
+858,Acne
+859,Split Ends
+860,Dandruff
+860,Oil Control
+860,Damaged Hair
+866,Sun Damage
+876,Dryness
+876,Roughness
+879,Dryness
+879,Anti-Ageing
+879,Dullness
+880,Acne
+889,Acne
+901,Blackheads
+901,Blemishes
+904,Dullness
+909,Blemishes
+909,Pigmentation
+909,Dark Spots
+909,Dark Circles
+909,Dullness
+909,Fine Lines & Wrinkles
+909,Under Eye Concerns
+909,Acne
+914,Dryness
+922,Dullness
+929,Tan Removal
+929,Dryness
+929,Roughness
+934,Dark Spots
+934,Blackheads
+934,Anti-Ageing
+934,Pores
+934,Oil Control
+936,Dryness
+936,Chapped Lips
+942,Blemishes
+942,Pigmentation
+942,Dark Spots
+942,Dark Circles
+942,Dullness
+942,Fine Lines & Wrinkles
+942,Under Eye Concerns
+942,Acne
+948,Dullness
+948,Brightening
+948,Uneven Skin Tone
+948,Pores
+948,Dark Spots
+949,Dandruff
+955,Frizziness
+957,Frizziness
+957,Dryness
+965,Anti-Pollution
+965,Blemishes
+965,Anti-Ageing
+970,Dryness
+970,Tangled Hair
+972,Anti-Ageing
+972,Fine Lines & Wrinkles
+984,Chapped Lips
+986,Blemishes
+991,Dullness
+995,Fine Lines & Wrinkles
+1009,Dryness
+1009,Roughness
+1013,Blemishes
+1013,Pigmentation
+1013,Pores
+1013,Dark Spots
+1013,Dark Circles
+1013,Dullness
+1013,Dryness
+1013,Fine Lines & Wrinkles
+1013,Under Eye Concerns
+1013,Acne
+1021,Dryness
+1026,Hair Fall
+1033,Dullness
+1033,Acne
+1033,Pores
+1035,Pigmentation
+1035,Tan Removal
+1035,Anti-Ageing
+1041,Blackheads
+1041,Whiteheads
+1042,Frizziness
+1044,Sun Damage
+1046,Dandruff
+1046,Hair Fall
+1052,Redness
+1054,Dullness
+1073,Dryness
+1073,Frizziness
+1073,Hair Fall
+1076,Dryness
+1076,Frizziness
+1081,Colour Protection
+1086,Sun Damage
+1088,Dullness
+1088,Dryness
+1089,Acne
+1089,Dryness
+1089,Pores
+1089,Anti-Ageing
+1089,Dullness
+1089,Fine Lines & Wrinkles
+1089,Dark Circles
+1090,Anti-Ageing
+1099,Blemishes
+1101,Fine Lines & Wrinkles
+1101,Dryness
+1101,Dullness
+1101,Acne
+1102,Sun Damage
+1102,Oil Control
+1102,Blemishes
+1105,Dryness
+1105,Tan Removal
+1105,Sun Damage
+1109,Sun Damage
+1114,Dandruff
+1114,Thinning
+1114,Dullness
+1118,Frizziness
+1118,Dryness
+1119,Uneven Skin Tone
+1119,Oil Control
+1119,Pores
+1122,Dryness
+1124,Dryness
+1126,Oil Control
+1126,Uneven Skin Tone
+1133,Dark Spots
+1137,Dryness
+1137,Pores
+1137,Product Build Up
+1140,Pigmentation
+1140,Dark Spots
+1140,Product Build Up
+1142,Dryness
+1142,Dullness
+1142,Fine Lines & Wrinkles
+1142,Acne
+1143,Pores
+1146,Dullness
+1146,Dryness
+1146,Roughness
+1150,Blemishes
+1152,Hair Fall
+1163,Blemishes
+1164,Dryness
+1164,Tan Removal
+1172,Sun Damage
+1173,Dryness
+1173,Dullness
+1173,Anti-Pollution
+1173,Redness
+1181,Dryness
+1182,Redness
+1184,Dryness
+1185,Colour Protection
+1185,Damaged Hair
+1185,Frizziness
+1186,Dryness
+1196,Pores
+1196,Uneven Skin Tone
+1200,Dryness
+1206,Dullness
+1206,Uneven Skin Tone
+1209,Under Eye Concerns
+1209,Dark Circles
+1209,Blemishes
+1223,Pigmentation
+1223,Dark Spots
+1223,Dullness
+1227,Chapped Lips
+1228,Dryness
+1229,Oil Control
+1229,Sun Damage
+1229,Tan Removal
+1229,Uneven Skin Tone
+1229,Anti-Pollution
+1229,Dullness
+1231,Under Eye Concerns
+1231,Dark Spots
+1231,Uneven Skin Tone
+1240,Acne
+1241,Fine Lines & Wrinkles
+1241,Uneven Skin Tone
+1241,Dullness
+1243,Dryness
+1245,Pores
+1248,Chapped Lips
+1248,Dryness
+1249,Dandruff
+1254,Uneven Skin Tone
+1254,Acne
+1254,Whiteheads
+1256,Anti-Pollution
+1256,Pores
+1262,Tan Removal
+1265,Sun Damage
+1266,Dullness
+1266,Dryness
+1266,Frizziness
+1268,Oil Control
+1268,Uneven Skin Tone
+1268,Pores
+1271,Dark Spots
+1273,Dullness
+1275,Dryness
+1276,Blemishes
+1276,Pigmentation
+1276,Dark Spots
+1276,Dark Circles
+1276,Dullness
+1276,Fine Lines & Wrinkles
+1276,Under Eye Concerns
+1276,Acne
+1282,Dullness
+1296,Roughness
+1297,Dark Spots
+1297,Dullness
+1297,Dryness
+1298,Blemishes
+1303,Dryness
+1307,Acne
+1307,Oil Control
+1307,Product Build Up
+1309,Split Ends
+1309,Dryness
+1309,Frizziness
+1322,Blemishes
+1326,Chapped Lips
+1326,Dryness
+1328,Pigmentation
+1328,Sun Damage
+1329,Roughness
+1334,Uneven Skin Tone
+1344,Dryness
+1351,Dullness
+1353,Dark Spots
+1353,Dullness
+1353,Dryness
+1355,Uneven Skin Tone
+1355,Dullness
+1355,Blemishes
+1355,Dark Spots
+1356,Roughness
+1362,Sun Damage
+1369,Uneven Skin Tone
+1371,Hair Fall
+1371,Hair Loss
+1372,Blemishes
+1374,Dryness
+1375,Dryness
+1376,Dryness
+1376,Frizziness
+1382,Acne
+1385,Frizziness
+1385,Dryness
+1386,Hair Loss
+1389,Dryness
+1389,Roughness
+1396,Dryness
+1396,Roughness
+1397,Dryness
+1401,Dryness
+1401,Tan Removal
+1402,Dark Spots
+1406,Redness
+1408,Pores
+1424,Hair Fall
+1426,Fine Lines & Wrinkles
+1426,Sun Damage
+1430,Frizziness
+1433,Chapped Lips
+1433,Dryness
+1437,Fine Lines & Wrinkles
+1438,Dryness
+1438,Anti-Ageing
+1438,Acne
+1438,Fine Lines & Wrinkles
+1440,Dryness
+1440,Dullness
+1440,Brightening
+1444,Tangled Hair
+1444,Damaged Hair
+1444,Frizziness
+1452,Fine Lines & Wrinkles
+1454,Uneven Skin Tone
+1460,Dryness
+1460,Dullness
+1460,Brightening
+1461,Dark Spots
+1461,Under Eye Concerns
+1461,Oil Control
+1461,Fine Lines & Wrinkles
+1461,Pores
+1461,Anti-Ageing
+1461,Pigmentation
+1461,Acne
+1461,Dullness
+1461,Dark Circles
+1464,Uneven Skin Tone
+1464,Dullness
+1466,Pores
+1471,Dryness
+1471,Uneven Skin Tone
+1472,Dryness
+1480,Oil Control
+1480,Uneven Skin Tone
+1503,Uneven Skin Tone
+1505,Oil Control
+1505,Blemishes
+1505,Dryness
+1517,Dryness
+1521,Oil Control
+1521,Pores
+1521,Dullness
+1522,Chapped Lips
+1522,Dryness
+1524,Thinning
+1525,Hair Fall
+1527,Frizziness
+1528,Split Ends
+1528,Dryness
+1529,Dryness
+1532,Split Ends
+1533,Dryness
+1539,Frizziness
+1539,Tangled Hair
+1539,Dullness
+1540,Roughness
+1541,Blemishes
+1541,Pigmentation
+1541,Dark Spots
+1541,Dark Circles
+1541,Dullness
+1541,Fine Lines & Wrinkles
+1541,Under Eye Concerns
+1541,Acne
+1549,Fine Lines & Wrinkles
+1567,Dullness
+1570,Under Eye Concerns
+1570,Dark Spots
+1570,Dark Circles
+1570,Uneven Skin Tone
+1572,Chapped Lips
+1573,Dullness
+1573,Dryness
+1573,Anti-Ageing
+1578,Blemishes
+1579,Dark Spots
+1588,Dryness
+1590,Dark Circles
+1590,Blemishes
+1590,Uneven Skin Tone
+1590,Redness
+1590,Dark Spots
+1591,Blemishes
+1591,Pigmentation
+1591,Whiteheads
+1591,Dark Spots
+1591,Dark Circles
+1591,Dullness
+1591,Fine Lines & Wrinkles
+1591,Under Eye Concerns
+1591,Acne
+1592,Chapped Lips
+1596,Dullness
+1597,Tan Removal
+1597,Dark Spots
+1597,Oil Control
+1597,Sun Damage
+1597,Dullness
+1612,Blemishes
+1612,Uneven Skin Tone
+1612,Anti-Pollution
+1615,Dryness
+1619,Sun Damage
+1620,Dryness
+1620,Dullness
+1620,Roughness
+1625,Uneven Skin Tone
+1625,Dark Spots
+1625,Dullness
+1629,Dryness
+1629,Dullness
+1629,Frizziness
+1632,Tan Removal
+1632,Dryness
+1632,Roughness
+1640,Dullness
+1640,Pores
+1641,Pigmentation
+1641,Dark Spots
+1641,Oil Control
+1651,Acne
+1651,Blackheads
+1651,Oil Control
+1652,Dryness
+1652,Frizziness
+1652,Damaged Hair
+1656,Under Eye Concerns
+1656,Dark Circles
+1656,Blemishes
+1656,Uneven Skin Tone
+1664,Thinning
+1664,Roughness
+1664,Hair Fall
+1665,Dryness
+1665,Dullness
+1665,Anti-Pollution
+1665,Redness
+1673,Tangled Hair
+1676,Pores
+1678,Uneven Skin Tone
+1679,Acne
+1679,Blackheads
+1679,Dullness
+1679,Blemishes
+1679,Pores
+1681,Acne
+1681,Blemishes
+1683,Acne
+1686,Oil Control
+1689,Dryness
+1695,Dryness
+1695,Dullness
+1695,Uneven Skin Tone
+1698,Dandruff
+1705,Blackheads
+1705,Tan Removal
+1714,Under Eye Concerns
+1715,Frizziness
+1716,Sun Damage
+1717,Dryness
+1721,Split Ends
+1721,Dullness
+1721,Dryness
+1726,Dullness
+1730,Blemishes
+1730,Pigmentation
+1730,Dark Spots
+1730,Dark Circles
+1730,Dullness
+1730,Fine Lines & Wrinkles
+1730,Under Eye Concerns
+1730,Acne
+1731,Dullness
+1735,Dark Spots
+1735,Under Eye Concerns
+1735,Uneven Skin Tone
+1736,Dryness
+1736,Roughness
+1744,Dullness
+1744,Frizziness
+1744,Damaged Hair
+1747,Dullness
+1747,Dryness
+1747,Anti-Ageing
+1748,Dryness
+1749,Sun Damage
+1751,Blemishes
+1755,Dryness
+1756,Oil Control
+1758,Pigmentation
+1758,Dark Spots
+1758,Sun Damage
+1761,Dullness
+1761,Dark Spots
+1761,Acne
+1766,Dark Spots
+1770,Acne
+1770,Oil Control
+1770,Pores
+1772,Anti-Ageing
+1772,Fine Lines & Wrinkles
+1774,Tangled Hair
+1774,Dryness
+1774,Frizziness
+1779,Dryness
+1780,Pores
+1782,Fine Lines & Wrinkles
+1782,Anti-Ageing
+1783,Uneven Skin Tone
+1783,Pigmentation
+1789,Frizziness
+1796,Dark Spots
+1796,Dullness
+1800,Fine Lines & Wrinkles
+1800,Pores
+1800,Oil Control
+1805,Anti-Ageing
+1805,Fine Lines & Wrinkles
+1812,Uneven Skin Tone
+1816,Blackheads
+1834,Damaged Hair
+1834,Dullness
+1834,Frizziness
+1835,Acne
+1850,Dullness
+1850,Uneven Skin Tone
+1852,Split Ends
+1854,Roughness
+1860,Hair Fall
+1860,Split Ends
+1866,Blemishes
+1866,Pigmentation
+1866,Dark Spots
+1866,Dark Circles
+1866,Dullness
+1866,Fine Lines & Wrinkles
+1866,Under Eye Concerns
+1866,Acne
+1873,Acne
+1879,Pores
+1879,Blemishes
+1879,Redness
+1879,Uneven Skin Tone
+1881,Dark Spots
+1881,Dullness
+1881,Dryness
+1882,Pigmentation
+1888,Blemishes
+1901,Dryness
+1901,Uneven Skin Tone
+1904,Dullness
+1909,Dullness
+1914,Dryness
+1915,Acne
+1915,Dryness
+1915,Dark Spots
+1918,Dullness
+1925,Dryness
+1927,Dryness
+1929,Dullness
+1929,Roughness
+1930,Acne
+1930,Dryness
+1930,Dark Spots
+1932,Dryness
+1934,Uneven Skin Tone
+1934,Dark Spots
+1934,Dullness
+1935,Frizziness
+1938,Acne
+1938,Uneven Skin Tone
+1938,Pores
+1939,Thinning
+1939,Hair Fall
+1942,Dullness
+1942,Uneven Skin Tone
+1943,Pigmentation
+1943,Chapped Lips
+1943,Sun Damage
+1945,Dullness
+1951,Dryness
+1952,Damaged Hair
+1955,Hair Fall
+1956,Dullness
+1956,Dark Spots
+1962,Dryness
+1964,Dryness
+1969,Dryness
+1971,Chapped Lips
+1979,Frizziness
+1981,Hair Fall
+1982,Dark Spots
+1983,Dark Spots
+1983,Dark Circles
+1983,Uneven Skin Tone
+1989,Frizziness
+1992,Uneven Skin Tone
+1992,Dullness
+1992,Dark Spots
+1994,Oil Control
+1994,Pores
+1995,Anti-Ageing
+1995,Fine Lines & Wrinkles
+1995,Redness
+1996,Chapped Lips
+1996,Dryness
+1999,Dark Spots
+2008,Thinning
+2008,Hair Fall
+2010,Dryness
+2011,Dryness
+2019,Dryness
+2019,Uneven Skin Tone
+2019,Anti-Ageing
+2023,Dullness
+2023,Anti-Pollution
+2023,Anti-Ageing
+2024,Dryness
+2025,Anti-Ageing
+2026,Pores
+2027,Hair Fall
+2029,Frizziness
+2030,Tangled Hair
+2033,Dryness
+2033,Sun Damage
+2034,Dryness
+2036,Hair Loss
+2037,Dryness
+2038,Colour Protection
+2038,Dullness
+2038,Dryness
+2041,Fine Lines & Wrinkles
+2042,Damaged Hair
+2056,Dryness
+2056,Dullness
+2056,Brightening
+2059,Frizziness
+2068,Under Eye Concerns
+2069,Dryness
+2070,Hair Fall
+2071,Dryness
+2071,Roughness
+2073,Dryness
+2074,Hair Fall
+2074,Dryness
+2074,Frizziness
+2074,Damaged Hair
+2074,Hair Loss
+2077,Tan Removal
+2079,Dandruff
+2079,Oil Control
+2089,Dryness
+2089,Oil Control
+2096,Pigmentation
+2097,Stretch Marks
+2097,Pores
+2100,Dark Spots
+2100,Dullness
+2100,Dryness
+2102,Pores
+2103,Oil Control
+2103,Blemishes
+2107,Dullness
+2107,Anti-Pollution
+2107,Anti-Ageing
+2110,Uneven Skin Tone
+2110,Acne
+2110,Dark Spots
+2110,Blemishes
+2121,Hair Fall
+2121,Thinning
+2121,Hair Loss
+2130,Oil Control
+2130,Sun Damage
+2130,Dryness
+2138,Oil Control
+2138,Uneven Skin Tone
+2138,Pores
+2140,Chapped Lips
+2144,Blemishes
+2144,Pigmentation
+2144,Dark Spots
+2144,Dark Circles
+2144,Dullness
+2144,Fine Lines & Wrinkles
+2144,Under Eye Concerns
+2144,Acne
+2147,Dryness
+2149,Acne
+2154,Chapped Lips
+2154,Dryness
+2155,Chapped Lips
+2156,Dryness
+2159,Pigmentation
+2159,Dark Spots
+2163,Dullness
+2163,Dryness
+2168,Dryness
+2169,Pores
+2174,Pigmentation
+2174,Dullness
+2174,Pores
+2176,Sun Damage
+2180,Dryness
+2181,Sun Damage
+2182,Tangled Hair
+2182,Dryness
+2185,Under Eye Concerns
+2193,Frizziness
+2195,Dullness
+2195,Dryness
+2195,Uneven Skin Tone
+2195,Roughness
+2198,Split Ends
+2199,Roughness
+2199,Dryness
+2199,Pores
+2199,Dullness
+2200,Fine Lines & Wrinkles
+2200,Pores
+2200,Dark Spots
+2202,Anti-Ageing
+2202,Pores
+2202,Fine Lines & Wrinkles
+2202,Dark Circles
+2202,Acne
+2208,Dryness
+2212,Pores
+2216,Blemishes
+2218,Dullness
+2218,Dryness
+2221,Dryness
+2226,Hair Loss
+2236,Pores
+2238,Dryness
+2238,Tangled Hair
+2238,Dullness
+2241,Anti-Ageing
+2246,Sun Damage
+2248,Anti-Ageing
+2251,Dullness
+2251,Dryness
+2251,Anti-Ageing
+2252,Redness
+2252,Dryness
+2252,Pores
+2252,Acne
+2252,Dullness
+2253,Dryness
+2257,Dullness
+2257,Anti-Pollution
+2257,Anti-Ageing
+2258,Under Eye Concerns
+2258,Dark Spots
+2258,Dark Circles
+2258,Uneven Skin Tone
+2260,Hair Fall
+2262,Damaged Hair
+2263,Chapped Lips
+2276,Uneven Skin Tone
+2283,Roughness
+2286,Dark Spots
+2288,Dark Circles
+2288,Fine Lines & Wrinkles
+2288,Anti-Ageing
+2289,Blemishes
+2289,Pigmentation
+2289,Dark Spots
+2289,Dark Circles
+2289,Dullness
+2289,Fine Lines & Wrinkles
+2289,Under Eye Concerns
+2289,Acne
+2293,Dullness
+2296,Frizziness
+2302,Thinning
+2302,Roughness
+2302,Hair Fall
+2305,Chapped Lips
+2305,Dark Spots
+2305,Dryness
+2307,Blemishes
+2307,Pigmentation
+2307,Dark Spots
+2307,Dark Circles
+2307,Dullness
+2307,Fine Lines & Wrinkles
+2307,Under Eye Concerns
+2307,Acne
+2310,Pigmentation
+2310,Dark Spots
+2310,Dullness
+2311,Thinning
+2311,Hair Fall
+2315,Frizziness
+2319,Oil Control
+2319,Pores
+2319,Fine Lines & Wrinkles
+2328,Frizziness
+2334,Pores
+2337,Oil Control
+2337,Sun Damage
+2339,Frizziness
+2340,Product Build Up
+2341,Frizziness
+2341,Dryness
+2341,Dullness
+2342,Blemishes
+2342,Dullness
+2342,Dark Spots
+2344,Sun Damage
+2344,Fine Lines & Wrinkles
+2351,Dryness
+2351,Dullness
+2351,Uneven Skin Tone
+2354,Blemishes
+2355,Hair Loss
+2358,Dryness
+2358,Roughness
+2361,Chapped Lips
+2368,Tan Removal
+2368,Dullness
+2369,Tan Removal
+2370,Dryness
+2374,Dryness
+2375,Acne
+2375,Oil Control
+2375,Uneven Skin Tone
+2375,Pores
+2376,Fine Lines & Wrinkles
+2387,Pores
+2387,Brightening
+2391,Dryness
+2391,Hair Fall
+2391,Damaged Hair
+2395,Sun Damage
+2396,Dryness
+2398,Chapped Lips
+2399,Oil Control
+2399,Acne
+2404,Dryness
+2407,Chapped Lips
+2407,Dryness
+2410,Fine Lines & Wrinkles
+2412,Under Eye Concerns
+2414,Dryness
+2415,Pores
+2415,Blemishes
+2415,Acne
+2422,Dryness
+2429,Pores
+2429,Oil Control
+2430,Oil Control
+2430,Pores
+2430,Dullness
+2431,Tan Removal
+2432,Roughness
+2437,Acne
+2439,Dullness
+2442,Oil Control
+2460,Damaged Hair
+2464,Fine Lines & Wrinkles
+2465,Roughness
+2465,Acne
+2465,Oil Control
+2465,Blemishes
+2469,Dryness
+2469,Dullness
+2469,Brightening
+2477,Chapped Lips
+2480,Acne
+2480,Oil Control
+2480,Dryness
+2485,Sun Damage
+2489,Under Eye Concerns
+2490,Frizziness
+2490,Dullness
+2490,Damaged Hair
+2497,Pores
+2497,Fine Lines & Wrinkles
+2497,Redness
+2498,Dryness
+2503,Pores
+2513,Dullness
+2513,Sun Damage
+2513,Anti-Ageing
+2526,Dryness
+2533,Redness
+2533,Uneven Skin Tone
+2533,Oil Control
+2533,Pores
+2533,Dullness
+2535,Pores
+2536,Tangled Hair
+2536,Frizziness
+2543,Oil Control
+2545,Dark Spots
+2545,Tan Removal
+2547,Chapped Lips
+2549,Anti-Ageing
+2550,Sun Damage
+2551,Dryness
+2554,Chapped Lips
+2555,Damaged Hair
+2560,Dullness
+2563,Dullness
+2566,Under Eye Concerns
+2567,Tangled Hair
+2567,Hair Fall
+2571,Sun Damage
+2572,Blemishes
+2572,Pigmentation
+2572,Dark Spots
+2572,Dark Circles
+2572,Dullness
+2572,Fine Lines & Wrinkles
+2572,Under Eye Concerns
+2572,Acne
+2580,Dryness
+2580,Oil Control
+2581,Dryness
+2591,Under Eye Concerns
+2598,Uneven Skin Tone
+2598,Tan Removal
+2598,Dryness
+2598,Roughness
+2601,Pigmentation
+2601,Dark Spots
+2601,Uneven Skin Tone
+2604,Anti-Ageing
+2605,Dullness
+2615,Dullness
+2616,Dark Spots
+2616,Under Eye Concerns
+2616,Oil Control
+2616,Fine Lines & Wrinkles
+2616,Pores
+2616,Anti-Ageing
+2616,Pigmentation
+2616,Acne
+2616,Dullness
+2616,Dark Circles
+2619,Tan Removal
+2621,Dryness
+2621,Dullness
+2621,Brightening
+2623,Blemishes
+2623,Dark Spots
+2623,Acne
+2624,Oil Control
+2624,Sun Damage
+2624,Dryness
+2625,Hair Fall
+2626,Dryness
+2626,Frizziness
+2629,Uneven Skin Tone
+2641,Dark Spots
+2641,Under Eye Concerns
+2641,Blemishes
+2641,Dryness
+2641,Fine Lines & Wrinkles
+2641,Pigmentation
+2641,Acne
+2641,Dullness
+2641,Dark Circles
+2646,Blemishes
+2646,Uneven Skin Tone
+2650,Dullness
+2661,Dullness
+2661,Oil Control
+2661,Pores
+2666,Dark Spots
+2666,Under Eye Concerns
+2666,Blemishes
+2666,Uneven Skin Tone
+2666,Fine Lines & Wrinkles
+2666,Pigmentation
+2666,Acne
+2666,Dullness
+2666,Dark Circles
+2669,Dark Spots
+2674,Uneven Skin Tone
+2675,Sun Damage
+2676,Chapped Lips
+2678,Blemishes
+2678,Pigmentation
+2678,Dark Spots
+2678,Dark Circles
+2678,Dullness
+2678,Fine Lines & Wrinkles
+2678,Under Eye Concerns
+2678,Acne
+2679,Split Ends
+2680,Thinning
+2680,Hair Fall
+2682,Dryness
+2682,Dark Spots
+2682,Blemishes
+2687,Acne
+2692,Sun Damage
+2692,Redness
+2696,Dryness
+2696,Tangled Hair
+2696,Frizziness
+2697,Dryness
+2700,Anti-Pollution
+2702,Dryness
+2712,Dullness
+2712,Blackheads
+2712,Acne
+2712,Pores
+2715,Frizziness
+2719,Chapped Lips
+2729,Fine Lines & Wrinkles
+2729,Pores
+2729,Anti-Pollution
+2734,Under Eye Concerns
+2737,Uneven Skin Tone
+2738,Sun Damage
+2739,Dark Spots
+2739,Fine Lines & Wrinkles
+2747,Sun Damage
+2750,Hair Fall
+2751,Stretch Marks
+2751,Dryness
+2751,Anti-Ageing
+2761,Tan Removal
+2762,Sun Damage
+2763,Dryness
+2763,Tan Removal
+2763,Sun Damage
+2766,Dryness
+2768,Dullness
+2768,Sun Damage
+2768,Anti-Ageing
+2775,Roughness
+2776,Oil Control
+2781,Tan Removal
+2781,Oil Control
+2781,Sun Damage
+2782,Dullness
+2787,Dryness
+2792,Dryness
+2800,Dryness
+2800,Anti-Ageing
+2800,Dullness
+2802,Blemishes
+2806,Dryness
+2806,Dullness
+2807,Dullness
+2807,Uneven Skin Tone
+2808,Roughness
+2808,Whiteheads
+2808,Pores
+2808,Dullness
+2815,Dullness
+2815,Fine Lines & Wrinkles
+2825,Hair Loss
+2832,Blemishes
+2832,Pigmentation
+2832,Dark Spots
+2832,Dark Circles
+2832,Dullness
+2832,Fine Lines & Wrinkles
+2832,Under Eye Concerns
+2832,Acne
+2835,Hair Fall
+2837,Dryness
+2866,Dullness
+2866,Anti-Pollution
+2866,Anti-Ageing
+2873,Pores
+2891,Dryness
+2898,Dark Spots
+2902,Dryness
+2903,Anti-Pollution
+2903,Redness
+2905,Pores
+2908,Acne
+2908,Pores
+2908,Redness
+2909,Uneven Skin Tone
+2911,Dullness
+2911,Dryness
+2911,Anti-Ageing
+2913,Dryness
+2913,Anti-Pollution
+2913,Tangled Hair
+2914,Fine Lines & Wrinkles
+2925,Thinning
+2925,Hair Fall
+2927,Redness
+2930,Dark Spots
+2939,Dullness
+2939,Dryness
+2939,Anti-Ageing
+2940,Dryness
+2943,Dryness
+2955,Pigmentation
+2955,Dullness
+2955,Dryness
+2957,Pores
+2964,Pigmentation
+2964,Dark Spots
+2964,Uneven Skin Tone
+2973,Dark Spots
+2973,Blemishes
+2973,Dryness
+2973,Fine Lines & Wrinkles
+2973,Pigmentation
+2973,Acne
+2973,Dullness
+2973,Dark Circles
+2977,Uneven Skin Tone
+2983,Pigmentation
+2983,Dark Spots
+2983,Dullness
+2984,Chapped Lips
+2984,Dryness
+2985,Frizziness
+2992,Pores
+2992,Roughness
+2994,Blemishes
+3000,Dullness
+3000,Fine Lines & Wrinkles
+3000,Dryness
+3000,Acne
+3004,Dryness
+3004,Roughness
+3015,Dryness
+3017,Blemishes
+3019,Dryness
+3020,Oil Control
+3023,Dryness
+3024,Pores
+3025,Dullness
+3032,Hair Fall
+3033,Dryness
+3033,Dullness
+3033,Frizziness
+3034,Acne
+3034,Blemishes
+3034,Pores
+3039,Acne
+3040,Dryness
+3043,Uneven Skin Tone
+3043,Dark Spots
+3043,Dullness
+3046,Frizziness
+3049,Blackheads
+3053,Pigmentation
+3053,Dark Spots
+3053,Dullness
+3056,Frizziness
+3059,Frizziness
+3062,Dryness
+3068,Dullness
+3069,Anti-Pollution
+3069,Sun Damage
+3069,Blemishes
+3075,Split Ends
+3075,Dullness
+3075,Damaged Hair
+3076,Chapped Lips
+3076,Dryness
+3082,Hair Loss
+3089,Blackheads
+3099,Hair Fall
+3102,Hair Fall
+3102,Receding Hairline
+3102,Hair Loss
+3103,Frizziness
+3111,Dryness
+3111,Tangled Hair
+3111,Dullness
+3114,Pores
+3115,Dullness
+3116,Dullness
+3116,Dryness
